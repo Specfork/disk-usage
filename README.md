@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/disk-usage"
 summary: Desktop disk usage analyzer for Windows, macOS and Linux. Scan a folder or drive, explore a size tree and treemap, see file types and largest files, and clean up safely.
 license: CC-BY-4.0
+tags: [desktop, files]
 derived_from:
   repo: https://github.com/shundhammer/qdirstat
   commit: ab3f28460a61264b7d7bc2fc356a0851e8736f26
